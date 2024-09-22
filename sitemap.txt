@@ -1,3 +1,5 @@
+https://xeyus.github.io/paracross/%E8%B5%84%E6%BA%90%E7%BB%84%E6%88%90/
+https://xeyus.github.io/paracross/%E7%94%9F%E7%89%A9%E7%BB%84%E6%88%90/
 https://xeyus.github.io/paracross/%E7%A4%BE%E4%BC%9A%E7%BB%93%E6%9E%84/
 https://xeyus.github.io/paracross/%E5%9C%B0%E7%90%86%E4%B8%8E%E5%9C%B0%E8%B4%A8-0/
 https://xeyus.github.io/paracross/%E5%9B%BE%E4%B9%A6%E9%A6%86/
@@ -9,10 +11,11 @@ https://xeyus.github.io/paracross/tags/index.html
 https://xeyus.github.io/paracross/categories/index.html
 https://xeyus.github.io/paracross
 https://xeyus.github.io/paracross/tags/%E5%BB%BA%E7%AD%91/
-https://xeyus.github.io/paracross/tags/%E4%BA%8B%E4%BB%B6/
 https://xeyus.github.io/paracross/tags/%E5%9C%B0%E7%90%86%E4%B8%8E%E5%9C%B0%E8%B4%A8/
+https://xeyus.github.io/paracross/tags/%E4%BA%8B%E4%BB%B6/
+https://xeyus.github.io/paracross/tags/%E8%B5%84%E6%BA%90/
 https://xeyus.github.io/paracross/tags/%E8%87%AA%E7%84%B6%E8%A7%84%E5%BE%8B/
 https://xeyus.github.io/paracross/tags/%E6%96%87%E5%8C%96/
-https://xeyus.github.io/paracross/categories/%E9%98%B5%E8%90%A5%E4%B8%8E%E8%A7%92%E8%89%B2/
 https://xeyus.github.io/paracross/categories/%E4%BA%A4%E9%94%99%E4%B9%8B%E5%9C%B0/
+https://xeyus.github.io/paracross/categories/%E9%98%B5%E8%90%A5%E4%B8%8E%E8%A7%92%E8%89%B2/
 https://xeyus.github.io/paracross/categories/%E5%9F%BA%E7%A1%80%E7%A0%94%E7%A9%B6/
